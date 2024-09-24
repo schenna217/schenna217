@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shashank</h1>
+<h1 align="center">Hey 👋, I'm Shashank</h1>
 <h3 align="center">A computer engineering student from Chicago</h3>
 
-- 🔭 I’m currently working on **my portfolio website!**
+- 🔭 I’m currently working on my portfolio website!
 
 - 📫 How to reach me **shashankchenna@gmail.com**
 
