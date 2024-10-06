@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my portfolio website!
 
-- 📫 How to reach me **shashankchenna@gmail.com**
+- 📫 Feel free to reach out! **shashankchenna@gmail.com**
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
