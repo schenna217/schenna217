@@ -34,8 +34,8 @@
   <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=schenna217&theme=react" alt="schenna217" /></p>
+<!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=schenna217&theme=react" alt="schenna217" /></p>-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=schenna217&show_icons=true&theme=react&hide_border=false&locale=en&layout=compact" alt="schenna217" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=schenna217&show_icons=true&theme=react&hide_border=false&locale=en&layout=compact" alt="schenna217" /></p>-->
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schenna217&show_icons=true&theme=dark&hide_border=true&locale=en" alt="schenna217" /></p>-->
