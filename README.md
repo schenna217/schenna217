@@ -52,7 +52,5 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> -->
 
 <!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=schenna217&theme=react" alt="schenna217" /></p>-->
-
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=schenna217&show_icons=true&theme=react&hide_border=false&locale=en&layout=compact" alt="schenna217" /></p>-->
-
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schenna217&show_icons=true&theme=dark&hide_border=true&locale=en" alt="schenna217" /></p>-->
