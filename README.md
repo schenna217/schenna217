@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">A computer engineering student from Chicago!</h3>
 
-- 🔭 I’m currently working on my portfolio website!
+- 🔭 I’m currently working on updating the website for a club!
 
 - 📫 Feel free to reach out! **shashankchenna@gmail.com**
 
